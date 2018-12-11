@@ -75,3 +75,5 @@ console.log("%s%s",Math.round(res11[0]),Math.round(res11[1]));
 console.log("Detailed: ", res11)
 
 console.log("Finished test with trained network!");
+
+console.log(myNetwork.toJSON());
